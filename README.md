@@ -8,11 +8,11 @@
 </p>
 
  ## Live Demo
-**You can see the `Forkify App` live on:** [Here](https://forkify-natik.netlify.app/)
+**You can see the `Forkify App` Live On:** [Here](https://forkify-barak-kuzi.netlify.app/)
 
 ## Description
 Forkify is a JavaScript application that interacts with the Forkify API to fetch and display recipe food data. 
-The user can search for a specific recipe and save it to a favourite list via local storage. 
+The user can search for a specific recipe and save it to a favorite list via local storage. 
 The user can easily increase or decrease servings as per his need and can view detailed directions. 
 You can add your own recipe to the list, it will be automatically added to your bookmarks and can be found with the search functionality.
 The app uses advanced JavaScript concepts like asynchronous programming, ES6 modules, and object-oriented programming.
