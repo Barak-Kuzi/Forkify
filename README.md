@@ -33,7 +33,6 @@ The app uses advanced JavaScript concepts like asynchronous programming, ES6 mod
 - NPM
 
 - ## Installation
-
 - Clone this repo:
 
 ```sh
